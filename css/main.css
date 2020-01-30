@@ -31,8 +31,7 @@ html {
 
 .banner-content {
   position: absolute;
-  left: 20%;
-  right: 20%;
+  left: 5%;
   bottom: 30%;
   overflow: hidden;
   color: white;
