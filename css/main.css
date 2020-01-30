@@ -31,9 +31,11 @@ html {
 
 .banner-content {
   position: absolute;
-  left: 30%;
-  right: 30%;
-  top: 50%;
+  left: 20%;
+  right: 20%;
+  bottom: 30%;
+  overflow: hidden;
   color: white;
   text-align: center;
+  max-height: 100%;
 }
